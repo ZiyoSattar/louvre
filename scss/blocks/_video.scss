@@ -1,0 +1,38 @@
+.video {
+  padding-top: 75px;
+  background-color: #DBDBDB;
+}
+
+.video__header {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin-bottom: 75px;
+}
+
+.video__heading {
+  margin: 0;
+  font-family: 'Forum';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 90px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  color: #9D8665;
+}
+
+.video__text {
+  margin: 0;  
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 38px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.vide__text-span {
+  max-width: 720px;
+  width: 100%;
+}
